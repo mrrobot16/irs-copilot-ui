@@ -14,14 +14,15 @@ export const DEV_BASE_URL = 'http://localhost:8000';
 // Fast API Production Env
 // export const PROD_BASE_URL = 'https://tax-app-api-dev-004c410e86db.herokuapp.com';
 // Fast API Staging Env
-export const STAGING_BASE_URL = 'https://tax-app-api-dev-004c410e86db.herokuapp.com/';
+export const STAGING_BASE_URL = 'https://tax-app-api-dev-004c410e86db.herokuapp.com';
 
 // AWS ENDPOINTS
 // FastAPI AWS Linux Virtual Server
 // export const PROD_BASE_URL = 'https://api.taxapp.chat';
 
 // RAILWAY ENDPOINTS
-export const PROD_BASE_URL = 'https://taxapp-api.up.railway.app/';
+// FastAPI 
+export const PROD_BASE_URL = 'https://taxapp-api.up.railway.app';
 
 export const VERCEL_BASE_URL = 'https://irs-copilot.vercel.app';
 
