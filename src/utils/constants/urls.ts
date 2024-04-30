@@ -18,7 +18,10 @@ export const STAGING_BASE_URL = 'https://tax-app-api-dev-004c410e86db.herokuapp.
 
 // AWS ENDPOINTS
 // FastAPI AWS Linux Virtual Server
-export const PROD_BASE_URL = 'https://api.taxapp.chat';
+// export const PROD_BASE_URL = 'https://api.taxapp.chat';
+
+// RAILWAY ENDPOINTS
+export const PROD_BASE_URL = 'https://taxapp-api.up.railway.app/';
 
 export const VERCEL_BASE_URL = 'https://irs-copilot.vercel.app';
 
